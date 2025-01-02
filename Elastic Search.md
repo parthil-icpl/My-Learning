@@ -8,4 +8,4 @@ I have done of Elastic stack
 7. Mapping API
 8. Index 
 9. Index Pattern 
-10. 
+10. Sharding
